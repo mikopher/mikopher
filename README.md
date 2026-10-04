@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Michos.
 
-<!--
-**mikopher/mikopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently an I.T. student building hands-on experience in defensive security, with a focus on security operations, monitoring, network analysis, and security engineering.
 
-Here are some ideas to get you started:
+## Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Security:** Splunk · Wazuh · Wireshark  
+**Scripting:** Python · PowerShell · SQL  
+**Systems & Workflow:** Windows · Ubuntu · Git · GitHub
+
+**Certifications:** CompTIA Security+ · CompTIA Network+
+
+## Current
+
+- Building a DevSecOps security pipeline
+- Refining my skills with security monitoring and network analysis
+- B.S. Information Technology · Expected May 2028
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/michos-colobong) · [Email](mailto:michosrcolobong@gmail.com)
