@@ -1,6 +1,6 @@
-# Heyy, I'm Michos.
+# Welcome, I'm Michos.
 
-Currently an I.T. student building hands-on experience in defensive security, with a focus on security operations, monitoring, network analysis, and security engineering.
+I'm an IT student building hands-on experience in defensive security, with a focus on security operations, monitoring, network analysis, and security engineering.
 
 ## Toolbox
 
@@ -13,7 +13,6 @@ Currently an I.T. student building hands-on experience in defensive security, wi
 ## Current
 
 - Building a DevSecOps security pipeline
-- Refining my skills with security monitoring and network analysis
 - B.S. Information Technology · Expected May 2028
 
 ## Connect
