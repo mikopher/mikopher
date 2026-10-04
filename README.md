@@ -1,4 +1,4 @@
-# Hey, I'm Michos.
+# Heyy, I'm Michos.
 
 Currently an I.T. student building hands-on experience in defensive security, with a focus on security operations, monitoring, network analysis, and security engineering.
 
